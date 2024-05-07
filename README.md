@@ -87,8 +87,7 @@ specify the number of periods in future that we want to forecast using
 make_future_dataframe() method and then make predictions using the
 predict method.
           future = model.make_future_dataframe(periods=365)
-# Example: forecast for 1 year into the future
-forecast = model.predict(future)
+
 * Visual Evaluation: Plot the actual values against the predicted values to
 visually inspect how well the model performs on the training data.
            model.plot(forecast)
