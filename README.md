@@ -140,10 +140,4 @@ recovery, and response measures. In summary, the COVID-19 analysis project
 serves as a valuable tool for monitoring, analyzing, and responding to the
 evolving challenges posed by the pandemic
 
-REFERENCES
-* https://github.com/utkarsh-n/COVID-Visualization-
-fbProphet/tree/main/Prophet
-* https://www.geeksforgeeks.org/covid-19-analysis-and-visualization-using-
-plotly-express/
-* LMS Portal
-* Various Youtube Videos
+
